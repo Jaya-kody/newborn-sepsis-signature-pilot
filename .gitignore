@@ -1,0 +1,8 @@
+*.csv
+*.tar
+GSE111404_RAW/
+*.txt
+__pycache__/
+.venv/
+.DS_Store
+*.soft.gz
