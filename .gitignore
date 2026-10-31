@@ -8,3 +8,5 @@ __pycache__/
 *.soft.gz
 counts/
 gene_symbols.csv
+!results/*.csv
+results/expr_norm_no_globin.csv
